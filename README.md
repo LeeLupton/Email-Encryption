@@ -10,9 +10,9 @@ Email-Encryption/         # Project root (Git repo)
 ├── LICENSE               # Project license
 ├── README.md             # This guide
 ├── emails/               # Input folder for plaintext .eml files
-│   └── README.md         # (Optional) Notes on email placement
+│   └── README.md         # Notes on email placement
 ├── encrypted/            # Output folder for encrypted .eml files
-│   └── README.md         # (Optional) Notes on encrypted files
+│   └── README.md         # Notes on encrypted files
 ├── scripts/
 │   └── encrypt_eml.py    # Main Python encryption script
 └── .git/                 # Git metadata (ignore)
