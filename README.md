@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.12.8-blue)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # Email-Encryption
 
 Bulk encrypt your `.eml` email files on Windows using GPG (Gpg4win) and Python.
